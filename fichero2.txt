@@ -1,2 +1,2 @@
 fichero creado en github
-actualizar en otra rama
+actualizar en la rama pruebas
